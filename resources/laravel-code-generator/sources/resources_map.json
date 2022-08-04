@@ -1,0 +1,66 @@
+[
+    {
+        "model-name": "Campus",
+        "resource-file": "campuses.json"
+    },
+    {
+        "model-name": "Faculty",
+        "resource-file": "faculties.json"
+    },
+    {
+        "model-name": "Department",
+        "resource-file": "departments.json"
+    },
+    {
+        "model-name": "ExamType",
+        "resource-file": "exam_types.json"
+    },
+    {
+        "model-name": "GradingScale",
+        "resource-file": "grading_scales.json"
+    },
+    {
+        "model-name": "StudyMode",
+        "resource-file": "study_modes.json"
+    },
+    {
+        "model-name": "Module",
+        "resource-file": "modules.json"
+    },
+    {
+        "model-name": "StudyPeriod",
+        "resource-file": "study_periods.json"
+    },
+    {
+        "model-name": "ModulePeriod",
+        "resource-file": "module_periods.json"
+    },
+    {
+        "model-name": "AcademicYearLevel",
+        "resource-file": "academic_year_levels.json"
+    },
+    {
+        "model-name": "QualificationLevel",
+        "resource-file": "qualification_levels.json"
+    },
+    {
+        "model-name": "ModulePaperSubminimum",
+        "resource-file": "module_paper_subminimums.json"
+    },
+    {
+        "model-name": "ExamPaper",
+        "resource-file": "exam_papers.json"
+    },
+    {
+        "model-name": "Qualification",
+        "resource-file": "qualifications.json"
+    },
+    {
+        "model-name": "QualificationType",
+        "resource-file": "qualification_types.json"
+    },
+    {
+        "model-name": "QualificationCampus",
+        "resource-file": "qualification_campuses.json"
+    }
+]
